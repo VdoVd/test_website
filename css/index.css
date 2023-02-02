@@ -1,0 +1,20 @@
+.header .logo{
+    font-size: larger;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.header .nav{
+    background-color: gray;
+    overflow: auto;
+}
+
+.header .nav a{
+    background-color: gray;
+    font-size: 17px;
+    color: fff;
+    float: left;
+    padding: 10px;
+}
